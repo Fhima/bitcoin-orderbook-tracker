@@ -78,4 +78,5 @@ coverage.xml
 # mypy
 .mypy_cache/
 .dmypy.json
-dmypy.json
+dmypy.json.venv/
+__pycache__/
